@@ -8,7 +8,6 @@
   position: relative;
   box-shadow: 0 u.rem(20) u.rem(50) hsl(213deg 13% 84%);
   @include u.breakpoint("large") {
-    margin-top: u.rem(-45);
     width: u.rem(733);
     height: u.rem(280);
     display: grid;
